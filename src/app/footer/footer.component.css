@@ -1,0 +1,13 @@
+.footer {
+    background: #2c3e50;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    border: 100px; 
+    color: #ffffff;
+    border: 1px solid #D83402;
+    box-sizing: border-box;
+    display: inline-block;
+    clear: both;
+}

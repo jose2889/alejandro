@@ -1,0 +1,32 @@
+.left {
+    background: #e67e22;
+    padding: 20px;
+    height: 400px;
+    width: 20%;
+    border: 100px; 
+    color: brown;
+    float: left;
+    border: 1px solid #D83402;
+    box-sizing: border-box;
+
+    
+    
+}
+nav {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+nav a {
+	background:#c0392b;
+	color:#fff;
+	text-align: center;
+	text-decoration: none;
+	padding:10px;
+ 
+	/* Flexbox */
+	flex-grow:1;
+}
+nav a:hover {
+	background:#e74c3c;
+}
